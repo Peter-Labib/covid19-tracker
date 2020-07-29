@@ -1,0 +1,11 @@
+.Recoverd {
+    border-bottom: 4px solid rgba(0, 255, 0, 0.5);
+}
+
+.Infected {
+    border-bottom: 4px solid rgba(0, 0, 255, 0.5);
+}
+
+.Deaths {
+    border-bottom: 4px solid rgba(255, 0, 0, 0.5);
+}
